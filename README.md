@@ -1,10 +1,10 @@
 # one-emoji-one-smile
 
-[![make.fun bounty status](https://img.shields.io/badge/make.fun%20bounty%20status-open-brightgreen)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
-[![make.fun valid entry](https://img.shields.io/badge/make.fun%20valid%20entry-yes-brightgreen)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
-[![make.fun submission status](https://img.shields.io/badge/make.fun%20submission%20status-pending-yellow)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
+[![make.fun · u-0xkianno-one-emoji-one-smile-5470751f](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
+[![rank](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/0xcqing/one-emoji-one-smile/rank.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
+[![reward](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/0xcqing/one-emoji-one-smile/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
 
-Entry for make.fun's **One Emoji, One Smile** bounty. The program writes exactly one emoji, and nothing else, to `/output/entry.txt`.
+Entry for make.fun's **One Emoji, One Smile** bounty. The program writes exactly one emoji — 💀 — and nothing else, to `/output/entry.txt`.
 
 ## Run
 

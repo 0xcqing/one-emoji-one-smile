@@ -1,0 +1,9 @@
+{
+  "name": "one-emoji-one-smile",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  }
+}
